@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Maulana Saad Sahab",
+      "email": "saad@gmail.com",
+      "image": "",
+      "phone": "1-770-736-8031 x56442",
+      "income": "$35,000"
+    },
+    {
+        "id": 2,
+        "name": "Maulana Tariq Jameel",
+        "email": "tariq@gmail.com",
+        "image": "",
+        "phone": "1-560-736-8031 x56442",
+        "income": "$45,000"
+    },
+    {
+        "id": 3,
+        "name": "Mufti Tariq Masud",
+        "email": "masud@gmail.com",
+        "image": "",
+        "phone": "1-650-736-8031 x56442",
+        "income": "$40,000"
+    },
+    {
+        "id": 4,
+        "name": "Mufti Menk",
+        "email": "menk@gmail.com",
+        "image": "",
+        "phone": "1-565-736-8031 x56442",
+        "income": "$15,000"
+    },
+    {
+        "id": 5,
+        "name": "Sheikh Numan Ali Khan",
+        "email": "numan@gmail.com",
+        "image": "",
+        "phone": "1-560-230-8031 x56442",
+        "income": "$25,000"
+    },
+    {
+        "id": 6,
+        "name": "Sheikh Ahmadullah",
+        "email": "ahmadullah@gmail.com",
+        "image": "",
+        "phone": "1-560-736-8954 x56442",
+        "income": "$20,000"
+    },
+    {
+        "id": 7,
+        "name": "Sheikh Yasir Qadhi",
+        "email": "yasir@gmail.com",
+        "image": "",
+        "phone": "1-560-458-3652 x56442",
+        "income": "$43,000"
+    },
+    {
+        "id": 8,
+        "name": "Maulana Sajjad Numani",
+        "email": "sajjad@gmail.com",
+        "image": "",
+        "phone": "1-689-736-8031 x56442",
+        "income": "$22,000"
+    },
+    {
+        "id": 9,
+        "name": "Mufti Taqi Usmani",
+        "email": "taqi@gmail.com",
+        "image": "",
+        "phone": "1-560-336-4562 x56442",
+        "income": "$35,000"
+    },
+    {
+        "id": 10,
+        "name": "Shaikh Hasan",
+        "email": "hasan@gmail.com",
+        "image": "",
+        "phone": "1-999-736-8031 x56442",
+        "income": "$65,000"
+    },
+    {
+        "id": 11,
+        "name": "Maulana Wasiful Islam",
+        "email": "wasif@gmail.com",
+        "image": "",
+        "phone": "1-560-555-8031 x56442",
+        "income": "$95,000"
+    },
+    {
+        "id": 12,
+        "name": "Maulana Ibrahim Dewla",
+        "email": "ibrahim@gmail.com",
+        "image": "",
+        "phone": "1-560-736-7566 x56442",
+        "income": "$15,000"
+    },
+    {
+        "id": 13,
+        "name": "Maulana Mizanur Rahman Azhari",
+        "email": "mizanur@gmail.com",
+        "image": "",
+        "phone": "1-440-736-8031 x56442",
+        "income": "$2,000"
+    },
+    {
+        "id": 14,
+        "name": "Maulana Abdul Wahab sab",
+        "email": "wahab@gmail.com",
+        "image": "",
+        "phone": "1-560-806-8031 x56442",
+        "income": "$36,000"
+    },
+    {
+        "id": 15,
+        "name": "Maulana Ashraf Madani",
+        "email": "ashraf@gmail.com",
+        "image": "https://religionworld.s3.amazonaws.com/uploads/2020/06/arshad-madani_20191115_402_602.jpg",
+        "phone": "1-560-677-8031 x56442",
+        "income": "$22,000"
+    }
+]
