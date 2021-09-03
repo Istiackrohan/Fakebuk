@@ -6,3 +6,24 @@
     display: flex;
     justify-content: start;
 }
+.button-container{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.button{
+    padding: 10px;
+    background-color: rgb(73, 119, 247);
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgba(145, 188, 252, 0.637);
+    color: rgb(73, 73, 73);
+}
+.button:active{
+    border: 2px solid rgb(2, 55, 134);
+    position: inline;
+}

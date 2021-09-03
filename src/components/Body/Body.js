@@ -2,7 +2,8 @@ import React from 'react';
 import './Body.css';
 
 const Body = (props) => {
-    const {name, image, email, phone, income} = props.userData;
+    const { name, image, email, phone, income } = props.userData;
+    const handleFriendList = props.handleFriendList;
     const ImageDivStyle = {
         width: '20%',
         padding: '10px'
@@ -14,7 +15,7 @@ const Body = (props) => {
         return (
             <div style={ImageDivStyle}>
                 <h4>{name}</h4>
-                <img style={imageStyle} src={image}/>
+                <img style={imageStyle} src={image} />
             </div>
         );
     };
@@ -28,8 +29,10 @@ const Body = (props) => {
                 <h2>Name: Hazrat {name}</h2>
                 <p>Phone Number: {phone}</p>
                 <p>Email: {email}</p>
-                <p>Earning: {income}</p>
-                <button>Add to friends</button>
+                <p>Earning: ${income}</p>
+                <div className="button-container">
+                    <button onClick={() => handleFriendList(props.userData)} className="button">Add to friends</button>
+                </div>
             </div>
         )
     }

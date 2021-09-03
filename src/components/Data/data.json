@@ -5,7 +5,7 @@
       "email": "saad@gmail.com",
       "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/th.jpg?raw=true",
       "phone": "1-770-736-8031 x56442",
-      "income": "$35,000"
+      "income": 35000
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "email": "tariq@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/tariq%20jameel.jpg?raw=true",
         "phone": "1-560-736-8031 x56442",
-        "income": "$45,000"
+        "income": 45000
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "email": "masud@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/tariq%20masud.jpg?raw=true",
         "phone": "1-650-736-8031 x56442",
-        "income": "$40,000"
+        "income": 40000
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "email": "menk@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/menk.jpg?raw=true",
         "phone": "1-565-736-8031 x56442",
-        "income": "$15,000"
+        "income": 15000
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "email": "numan@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/numan%20ali.jpg?raw=true",
         "phone": "1-560-230-8031 x56442",
-        "income": "$25,000"
+        "income": 25000
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "email": "ahmadullah@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/ahmadullah.jpg?raw=true",
         "phone": "1-560-736-8954 x56442",
-        "income": "$20,000"
+        "income": 20000
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "email": "yasir@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/yasir.jpg?raw=true",
         "phone": "1-560-458-3652 x56442",
-        "income": "$43,000"
+        "income": 3000
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "email": "sajjad@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/Molana-Sajjad-Nomani2-1024x1024.jpg?raw=true",
         "phone": "1-689-736-8031 x56442",
-        "income": "$22,000"
+        "income": 22000
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "email": "taqi@gmail.com",
         "image": "https://tse4.mm.bing.net/th?id=OIP.Mjo5Z44WdzjmrHHEaa3VLQHaFj&pid=Api&P=0&w=214&h=161",
         "phone": "1-560-336-4562 x56442",
-        "income": "$35,000"
+        "income": 35000
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "email": "hasan@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/hasan.jpg?raw=true",
         "phone": "1-999-736-8031 x56442",
-        "income": "$65,000"
+        "income": 65000
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "email": "wasif@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/wasif.jpg?raw=true",
         "phone": "1-560-555-8031 x56442",
-        "income": "$95,000"
+        "income": 95000
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "email": "ibrahim@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/ibrahim.jpg?raw=true",
         "phone": "1-560-736-7566 x56442",
-        "income": "$15,000"
+        "income": 15000
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "email": "mizanur@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/mizan.jpg?raw=true",
         "phone": "1-440-736-8031 x56442",
-        "income": "$2,000"
+        "income": 2000
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "email": "wahab@gmail.com",
         "image": "https://github.com/Istiackrohan/Fakebuk/blob/main/src/components/images/wahab.jpg?raw=true",
         "phone": "1-560-806-8031 x56442",
-        "income": "$36,000"
+        "income": 36000
     },
     {
         "id": 15,
@@ -117,6 +117,6 @@
         "email": "ashraf@gmail.com",
         "image": "https://religionworld.s3.amazonaws.com/uploads/2020/06/arshad-madani_20191115_402_602.jpg",
         "phone": "1-560-677-8031 x56442",
-        "income": "$22,000"
+        "income": 22000
     }
 ]
