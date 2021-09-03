@@ -1,24 +1,20 @@
 import React from 'react';
 import './Body.css';
-import Users from '../Data/data.json'
-import { useState, useEffect } from 'react';
 
-const Body = () => {
-    const ImageStyle = {
+const Body = (props) => {
+    const {name, image, email, phone, income} = props.userData;
+    const ImageDivStyle = {
         width: '20%',
+        padding: '10px'
     }
-
+    const imageStyle = {
+        width: "200px"
+    }
     const Image = () => {
-        const [users, setUsers] = useState([]);
-        useEffect(() => {
-            setUsers(Users);
-            console.log(users.name);
-        }, []);
-
         return (
-            <div style={ImageStyle}>
-                <h1>Image</h1>
-                <img src="" />
+            <div style={ImageDivStyle}>
+                <h4>{name}</h4>
+                <img style={imageStyle} src={image}/>
             </div>
         );
     };
@@ -26,11 +22,14 @@ const Body = () => {
     const DetailsStyle = {
         width: '80%',
     };
-    
     const Details = () => {
         return (
             <div style={DetailsStyle}>
-                <h1 >Details</h1>
+                <h2>Name: Hazrat {name}</h2>
+                <p>Phone Number: {phone}</p>
+                <p>Email: {email}</p>
+                <p>Earning: {income}</p>
+                <button>Add to friends</button>
             </div>
         )
     }
