@@ -7,14 +7,14 @@
     flex-direction: column; 
     /* box-shadow: 0px 10px 20px black; */
 }
-h3{
+.bar-body h3{
     height: 50px;
     background-color: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-h3:hover{
+.bar-body h3:hover{
     background-color: rgba(105, 105, 105, 0.534);
     border-left: 4px solid rgb(223, 223, 223);
 }
